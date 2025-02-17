@@ -1,6 +1,6 @@
 ## Hey 👋
 I'm Emran Khan, a front-end web-developer from Dhaka, Bangladesh specialising in JavaScript. 
-🌱 What I Can Offer : 
+-🌱 What I Can Offer : 
 • I'm not just about writing code. I truly care about creating something that is impactful and makes a real difference.
 
 • I believe in clear communication and never leave clients in the dark. You’ll always be informed, and I’ll be there to help whenever you need it.
