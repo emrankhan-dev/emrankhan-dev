@@ -1,11 +1,19 @@
 ## Hey 👋
 I'm Emran Khan, a front-end web-developer from Dhaka, Bangladesh specialising in JavaScript. 
--🌱 What I Can Offer : 
-• I'm not just about writing code. I truly care about creating something that is impactful and makes a real difference.
 
-• I believe in clear communication and never leave clients in the dark. You’ll always be informed, and I’ll be there to help whenever you need it.
+⚒️ I have experience working on Progressive Web Apps (PWA), responsive landing pages, and accessibility-focused solutions, ensuring user-friendly and high-performing digital experiences. 
 
-• For me, trust is everything. I treat every project like my own and make sure you can rely on me. 💪
+🛠️ My Core Expertise
+
+• HTML • CSS • JavaScript • React • TypeScript • Tailwind • Firebase • PWAs • APIs • Accessibility
+
+🌱 What I Can Offer : 
+
+    • I'm not just about writing code. I truly care about creating something that is impactful and makes a real difference.
+
+    • I believe in clear communication and never leave clients in the dark. You’ll always be informed, and I’ll be there to help whenever you need it.
+
+    • For me, trust is everything. I treat every project like my own and make sure you can rely on me. 💪
 
 
 - ⚡ Fun fact: Before becoming a web developer, I was a textile engineer and I have a master's degree in International Business.
