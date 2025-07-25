@@ -5,7 +5,7 @@ I'm Emran Khan, a front-end web-developer from Dhaka, Bangladesh specialising in
 
 🛠️ My Core Expertise
 
-• HTML • CSS • JavaScript • React • TypeScript • Tailwind • Firebase • PWAs • APIs • Accessibility
+• HTML • CSS • JavaScript • React • Supabase • Tailwind • Firebase • PWAs • APIs • Accessibility
 
 🌱 What I Can Offer : 
 
