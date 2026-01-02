@@ -1,21 +1,27 @@
-## Hey 👋
-I'm Emran Khan, a front-end web-developer from Dhaka, Bangladesh specialising in JavaScript. 
+## 👋 Hi, I'm Emran
+Web Developer | Building real-world projects
 
-⚒️ I have experience working on Progressive Web Apps (PWA), responsive landing pages, and accessibility-focused solutions, ensuring user-friendly and high-performing digital experiences. 
+I'm passionate about web development and continuously working on real-world projects to improve my skills and contribute to the tech community. I adapt quickly to ongoing projects and enjoy solving challenges efficiently.
 
-🛠️ My Core Expertise
+✅ Frontend Skills: 
+HTML5, CSS3, Tailwind CSS, JavaScript, TypeScript, ReactJs, NextJs
 
-• HTML • CSS • JavaScript • React • Supabase • Tailwind • Firebase • PWAs • APIs • Accessibility
+✅ Backend Skills: 
+SQL, Firebase, Supabase, API Integration
 
-🌱 What I Can Offer : 
+✅ Other Skills: 
+Git, Github, Figma(Design & Prototyping), Accessibility(Making web application usuable for everyone)
 
-    • I'm not just about writing code. I truly care about creating something that is impactful and makes a real difference.
+📌 What I'm Currently Doing
 
-    • I believe in clear communication and never leave clients in the dark. You’ll always be informed, and I’ll be there to help whenever you need it.
+✅ Accepting freelance work
 
-    • For me, trust is everything. I treat every project like my own and make sure you can rely on me. 💪
+✅ Open to collaborate on Frontend Projects 
+
+✅ Expanding my React skills 
+
+Let's Connect: 
+
+💼 LinkedIn: https://www.linkedin.com/in/emrankhandev/
 
 
-- ⚡ Fun fact: Before becoming a web developer, I was a textile engineer and I have a master's degree in International Business.
-- ⚡ Work: I am accepting freelance projects at the moment as well as applying for permanent positions.
-- 📫 You can find me: Email: khanemranpau@gmail.com, LinkedIn: https://www.linkedin.com/in/emrankhandev/, X: https://x.com/emrankhan_dev
