@@ -10,7 +10,7 @@ HTML5, CSS3, Tailwind CSS, JavaScript, TypeScript, React.js, Next.js
 SQL, Firebase, Supabase, API Integration
 
 ✅ Other Skills: 
-Git, Github, Figma(Design & Prototyping), Accessibility(Making web application usuable for everyone)
+Git, Github, Figma (Design & Prototyping), Accessibility (Making web application usuable for everyone)
 
 📌 What I'm Currently Doing
 
